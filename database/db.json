@@ -1,0 +1,6 @@
+{
+    "mongo":{
+        "uri":"mongodb+srv://zohra:root@cluster0.pctpb.mongodb.net/71Music?retryWrites=true&w=majority"
+    }
+    
+    }
